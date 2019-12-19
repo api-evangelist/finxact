@@ -1,0 +1,48 @@
+{
+    "name": "Finxact",
+    "description": "Cloud banking platform built for integration. The Open API, component architecture, & customer extensible design provides easy access to data & transactions",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28206-finxact-com.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/finxact\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Finxact",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28206-finxact-com.jpg",
+            "humanURL": "https:\/\/finxact.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/finxact-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/finxact"
+        },
+        {
+            "type": "Email",
+            "url": "info@finxact.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/finxact"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/finxact.com"
+        }
+    ]
+}
